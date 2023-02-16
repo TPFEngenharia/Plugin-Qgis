@@ -12,8 +12,8 @@ email=sanderllan.costa@tpfe.com.br
 
 about=Este plugin tem um conjunto de ferramentas para os trabalhos da TPF
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/TPFEngenharia/tpfeng/issues
+repository=https://github.com/TPFEngenharia/tpfeng
 # End of mandatory metadata
 
 # Recommended items:
@@ -44,4 +44,3 @@ Category of the plugin: Raster, Vector, Database or Web
 
 # If the plugin can run on QGIS Server.
 server=False
-
