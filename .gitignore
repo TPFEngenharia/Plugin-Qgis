@@ -1,2 +1,5 @@
 
 ignore.txt
+__pycache__/__init__.cpython-39.pyc
+__pycache__/tpfeng.cpython-39.pyc
+__pycache__/tpfeng_provider.cpython-39.pyc
